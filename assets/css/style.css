@@ -4736,7 +4736,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #44d7b6 !important; }
+  background-color: #2d1c52 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -7298,7 +7298,7 @@ html {
   scroll-behavior: smooth; }
 
 .hiro-header.home-header {
-  background-image: linear-gradient(to right, #fff 0%, #fff 70%, #000 70%, #000 100%);
+  background-image: linear-gradient(to left, #892970 35%, #bdbdbf 100%);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center; }
